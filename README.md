@@ -1,3 +1,4 @@
-# arch-dotfiles
-Dot files for distro-hopping 
-Configs for alacritty
+# arch-configs
+Simple .bashrc configs
+personal configs for alacritty
+personal programs
