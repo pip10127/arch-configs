@@ -3,26 +3,27 @@
 opacity = 0.9
 # Default colors
 [colors.primary]
-background = '#0A0E14'
-foreground = '#B3B1AD'
+background = '#000000'
+foreground = '#b6b6b6'
+
 # Normal colors
 [colors.normal]
-black   = '#01060E'
-red     = '#EA6C73'
-green   = '#91B362'
-yellow  = '#F9AF4F'
-blue    = '#53BDFA'
-magenta = '#FAE994'
-cyan    = '#90E1C6'
-white   = '#C7C7C7'
+black   = '#000000'
+red     = '#990000'
+green   = '#00a600'
+yellow  = '#999900'
+blue    = '#0000b2'
+magenta = '#b200b2'
+cyan    = '#00a6b2'
+white   = '#bfbfbf'
 
 # Bright colors
 [colors.bright]
-black   = '#686868'
-red     = '#F07178'
-green   = '#C2D94C'
-yellow  = '#FFB454'
-blue    = '#59C2FF'
-magenta = '#FFEE99'
-cyan    = '#95E6CB'
-white   = '#FFFFFF'
+black   = '#666666'
+red     = '#e50000'
+green   = '#00d900'
+yellow  = '#e5e500'
+blue    = '#0000ff'
+magenta = '#e500e5'
+cyan    = '#00e5e5'
+white   = '#e5e5e5'
