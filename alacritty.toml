@@ -1,6 +1,11 @@
-# Colors (Ayu Dark)
+# font for powerlevel10k
+[font.normal]
+family = "MesloLGS NF"
+
+# window transparency
 [window]
 opacity = 0.9
+
 # Default colors
 [colors.primary]
 background = '#000000'
