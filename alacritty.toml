@@ -1,4 +1,8 @@
-# font for powerlevel10k
+# add code or code the file to alacritty folder in your .config folder
+# if you do not have the folder for alacritty you can simply create the dir
+# font for powerleve10k 
+# powerlevel0k github https://github.com/romkatv/powerlevel10k
+
 [font.normal]
 family = "MesloLGS NF"
 
