@@ -1,7 +1,7 @@
 # arch-configs
 My personal config files
 
-(Just dumb personal project)
+(Just a dumb personal project)
 
   -_Zsh theme _-
 
