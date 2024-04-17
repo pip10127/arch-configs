@@ -3,6 +3,8 @@
 # font for powerleve10k 
 # powerlevel0k github https://github.com/romkatv/powerlevel10k
 
+# to install font yay -S ttf-meslo-nerd-font-powerlevel10k
+
 [font.normal]
 family = "MesloLGS NF"
 
